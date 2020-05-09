@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>635503697</fileChecksum>
+    <configuration>
+        <name>ptptest</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\dep\sys_time.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\dep\timer.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\dep\net.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\arith.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\dep\servo.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\dep\msg.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\dep\startup.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\protocol.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\ptpd.c</file>
+            <file>$PROJ_DIR$\..\Middlewares\Third_Party\ptpd-2.0.0\src\bmc.c</file>
+            <file>$PROJ_DIR$\..\TCP_app\tcp_client.c</file>
+            <file>$PROJ_DIR$\..\Src\stm32f4xx_hal_eth_ex.c</file>
+            <file>$PROJ_DIR$\..\Src\main.c</file>
+            <file>$PROJ_DIR$\..\Src\ethernetif.c</file>
+            <file>$PROJ_DIR$\..\Src\lwip.c</file>
+            <file>$PROJ_DIR$\..\Src\freertos.c</file>
+            <file>$PROJ_DIR$\..\Src\stm32f4xx_hal_msp.c</file>
+            <file>$PROJ_DIR$\..\Src\stm32f4xx_hal_timebase_tim.c</file>
+            <file>$PROJ_DIR$\..\Src\stm32f4xx_it.c</file>
+        </outputs>
+    </configuration>
+</project>
